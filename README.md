@@ -1,4 +1,4 @@
-\# 🧮 C# Windows Forms Calculator
+#C# Windows Forms Calculator
 
 
 
@@ -6,7 +6,7 @@ Une application de calculatrice desktop développée en C# avec .NET 8 et Window
 
 
 
-\## 🚀 Fonctionnalités
+## Fonctionnalités
 
 \- Opérations arithmétiques de base (addition, soustraction, multiplication, division).
 
@@ -23,14 +23,4 @@ Une application de calculatrice desktop développée en C# avec .NET 8 et Window
 \- \*\*Framework :\*\* Windows Forms (WinForms)
 
 \- \*\*IDE :\*\* Visual Studio 2022
-
-
-
-\## ⚙️ Exécution en local
-
-1\. Cloner le dépôt :
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/ton-username/winforms-calculator.git](https://github.com/ton-username/winforms-calculator.git)
 
