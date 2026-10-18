@@ -23,4 +23,6 @@ Une application de calculatrice desktop développée en C# avec .NET 8 et Window
 \- \*\*Framework :\*\* Windows Forms (WinForms)
 
 \- \*\*IDE :\*\* Visual Studio 2022
-
+## Pour execution locale 
+''bash
+    git clone [https://github.com/yonosiabdorrahmane-cell/winforms-calculator.git](https://github.com/yonosiabdorahmane-cell/winforms-calculator.git)
